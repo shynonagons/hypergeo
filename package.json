@@ -1,0 +1,15 @@
+{
+  "name": "mathy",
+  "version": "1.0.0",
+  "description": "Math functions in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "math",
+    "javascript"
+  ],
+  "author": "perezvon",
+  "license": "ISC"
+}
