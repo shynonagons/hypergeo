@@ -1,13 +1,14 @@
 {
-  "name": "mathy",
+  "name": "hypergeo",
   "version": "1.0.0",
-  "description": "Math functions in javascript",
+  "description": "Hypergeometric calculator in javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\""
   },
   "keywords": [
     "math",
+    "hypergeometric",
     "javascript"
   ],
   "author": "perezvon",

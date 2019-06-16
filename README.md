@@ -18,3 +18,5 @@ const hypergeo = require('hypergeo');
 hypergeo.pmf(N,k,n,x)
 ```
 
+Where N = total population size, k = number of possible successes, n = number of draws (sample size), x = number of successes in sample
+
