@@ -11,7 +11,9 @@
     "hypergeometric",
     "javascript"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-  "author": "perezvon",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "shynonagons",
   "license": "ISC"
 }
